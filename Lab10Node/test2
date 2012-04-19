@@ -1,0 +1,168 @@
+Script started on Wed 18 Apr 2012 11:49:43 PM PDT
+]0;jpow@ubuntu: ~/Desktop/CS202/Lab10/Lab10Nodejpow@ubuntu:~/Desktop/CS202/Lab10/Lab10Node$ ./queue.out 
+Please enter a command: 
+<A>dd new data
+<R>emove data
+Test <F>ull
+Test <E>mpty
+<Q>uit
+a
+
+Enter the character value to be placed in your queue: w
+w
+Please enter a command: 
+<A>dd new data
+<R>emove data
+Test <F>ull
+Test <E>mpty
+<Q>uit
+a
+
+Enter the character value to be placed in your queue: j
+wj
+Please enter a command: 
+<A>dd new data
+<R>emove data
+Test <F>ull
+Test <E>mpty
+<Q>uit
+a
+
+Enter the character value to be placed in your queue: j
+wjj
+Please enter a command: 
+<A>dd new data
+<R>emove data
+Test <F>ull
+Test <E>mpty
+<Q>uit
+a
+
+Enter the character value to be placed in your queue: f
+wjjf
+Please enter a command: 
+<A>dd new data
+<R>emove data
+Test <F>ull
+Test <E>mpty
+<Q>uit
+a
+
+Enter the character value to be placed in your queue: v
+wjjfv
+Please enter a command: 
+<A>dd new data
+<R>emove data
+Test <F>ull
+Test <E>mpty
+<Q>uit
+a
+
+Enter the character value to be placed in your queue: l
+wjjfvl
+Please enter a command: 
+<A>dd new data
+<R>emove data
+Test <F>ull
+Test <E>mpty
+<Q>uit
+r
+dequeue'd: w
+jjfvl
+Please enter a command: 
+<A>dd new data
+<R>emove data
+Test <F>ull
+Test <E>mpty
+<Q>uit
+r
+dequeue'd: j
+jfvl
+Please enter a command: 
+<A>dd new data
+<R>emove data
+Test <F>ull
+Test <E>mpty
+<Q>uit
+r
+dequeue'd: j
+fvl
+Please enter a command: 
+<A>dd new data
+<R>emove data
+Test <F>ull
+Test <E>mpty
+<Q>uit
+r
+dequeue'd: f
+vl
+Please enter a command: 
+<A>dd new data
+<R>emove data
+Test <F>ull
+Test <E>mpty
+<Q>uit
+r
+dequeue'd: v
+l
+Please enter a command: 
+<A>dd new data
+<R>emove data
+Test <F>ull
+Test <E>mpty
+<Q>uit
+r
+dequeue'd: l
+
+Please enter a command: 
+<A>dd new data
+<R>emove data
+Test <F>ull
+Test <E>mpty
+<Q>uit
+r
+The queue is empty.dequeue'd: l
+
+Please enter a command: 
+<A>dd new data
+<R>emove data
+Test <F>ull
+Test <E>mpty
+<Q>uit
+r
+The queue is empty.dequeue'd: l
+
+Please enter a command: 
+<A>dd new data
+<R>emove data
+Test <F>ull
+Test <E>mpty
+<Q>uit
+r
+The queue is empty.dequeue'd: l
+
+Please enter a command: 
+<A>dd new data
+<R>emove data
+Test <F>ull
+Test <E>mpty
+<Q>uit
+f
+Please enter a command: 
+<A>dd new data
+<R>emove data
+Test <F>ull
+Test <E>mpty
+<Q>uit
+e
+Please enter a command: 
+<A>dd new data
+<R>emove data
+Test <F>ull
+Test <E>mpty
+<Q>uit
+q
+]0;jpow@ubuntu: ~/Desktop/CS202/Lab10/Lab10Nodejpow@ubuntu:~/Desktop/CS202/Lab10/Lab10Node$ exit
+exit
+
+Script done on Wed 18 Apr 2012 11:50:22 PM PDT

@@ -1,0 +1,156 @@
+Script started on Wed 18 Apr 2012 11:46:56 PM PDT
+]0;jpow@ubuntu: ~/Desktop/CS202/Lab10/Lab10Nodejpow@ubuntu:~/Desktop/CS202/Lab10/Lab10Node$ ./queue.out [K]0;jpow@ubuntu: ~/Desktop/CS202/Lab10/Lab10Nodejpow@ubuntu:~/Desktop/CS202/Lab10/Lab10Node$ ./queue.out [K]0;jpow@ubuntu: ~/Desktop/CS202/Lab10/Lab10Nodejpow@ubuntu:~/Desktop/CS202/Lab10/Lab10Node$ ./queue.out [K]0;jpow@ubuntu: ~/Desktop/CS202/Lab10/Lab10Nodejpow@ubuntu:~/Desktop/CS202/Lab10/Lab10Node$ ./queue.out 
+Please enter a command: 
+<A>dd new data
+<R>emove data
+Test <F>ull
+Test <E>mpty
+<Q>uit
+a
+
+Enter the character value to be placed in your queue: a
+a
+Please enter a command: 
+<A>dd new data
+<R>emove data
+Test <F>ull
+Test <E>mpty
+<Q>uit
+a
+
+Enter the character value to be placed in your queue: b
+ab
+Please enter a command: 
+<A>dd new data
+<R>emove data
+Test <F>ull
+Test <E>mpty
+<Q>uit
+a
+
+Enter the character value to be placed in your queue: c
+abc
+Please enter a command: 
+<A>dd new data
+<R>emove data
+Test <F>ull
+Test <E>mpty
+<Q>uit
+a
+
+Enter the character value to be placed in your queue: d
+abcd
+Please enter a command: 
+<A>dd new data
+<R>emove data
+Test <F>ull
+Test <E>mpty
+<Q>uit
+a
+
+Enter the character value to be placed in your queue: e
+abcde
+Please enter a command: 
+<A>dd new data
+<R>emove data
+Test <F>ull
+Test <E>mpty
+<Q>uit
+a
+
+Enter the character value to be placed in your queue: f
+abcdef
+Please enter a command: 
+<A>dd new data
+<R>emove data
+Test <F>ull
+Test <E>mpty
+<Q>uit
+a
+
+Enter the character value to be placed in your queue: g
+abcdefg
+Please enter a command: 
+<A>dd new data
+<R>emove data
+Test <F>ull
+Test <E>mpty
+<Q>uit
+r
+dequeue'd: a
+bcdefg
+Please enter a command: 
+<A>dd new data
+<R>emove data
+Test <F>ull
+Test <E>mpty
+<Q>uit
+r
+dequeue'd: b
+cdefg
+Please enter a command: 
+<A>dd new data
+<R>emove data
+Test <F>ull
+Test <E>mpty
+<Q>uit
+r
+dequeue'd: c
+defg
+Please enter a command: 
+<A>dd new data
+<R>emove data
+Test <F>ull
+Test <E>mpty
+<Q>uit
+r
+dequeue'd: d
+efg
+Please enter a command: 
+<A>dd new data
+<R>emove data
+Test <F>ull
+Test <E>mpty
+<Q>uit
+r
+dequeue'd: e
+fg
+Please enter a command: 
+<A>dd new data
+<R>emove data
+Test <F>ull
+Test <E>mpty
+<Q>uit
+r
+dequeue'd: f
+g
+Please enter a command: 
+<A>dd new data
+<R>emove data
+Test <F>ull
+Test <E>mpty
+<Q>uit
+r
+dequeue'd: g
+
+Please enter a command: 
+<A>dd new data
+<R>emove data
+Test <F>ull
+Test <E>mpty
+<Q>uit
+r
+dog... wtf...
+dequeue'd: g
+
+Please enter a command: 
+<A>dd new data
+<R>emove data
+Test <F>ull
+Test <E>mpty
+<Q>uit
+q
+]0;jpow@ubuntu: ~/Desktop/CS202/Lab10/Lab10Nodejpow@ubuntu:~/Desktop/CS202/Lab10/Lab10Node$ exit
+exit
+
+Script done on Wed 18 Apr 2012 11:48:05 PM PDT
